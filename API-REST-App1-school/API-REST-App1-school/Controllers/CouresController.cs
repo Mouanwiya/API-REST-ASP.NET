@@ -12,7 +12,7 @@ namespace API_REST_App1_school.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new List<string>() { "c#", "java"};
+            return new List<string>() { "c#", "java", "Flutter", "Angular", "Php"};
         }
     }
 }
