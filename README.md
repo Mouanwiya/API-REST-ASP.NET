@@ -2,4 +2,4 @@
 
 ## Destiner à la Consomation des API-REST Open source
 
-A faire : ajouter un fichier .gitignore
+A faire : ajouter un fichier `.gitignore
